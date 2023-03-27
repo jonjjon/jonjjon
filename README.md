@@ -6,9 +6,7 @@
 + Studying Cognitive Psychology in SKKU Graduate School
 
 ![jonjjon's github stats](https://github-readme-stats.vercel.app/api?username=jonjjon&show_icons=true&theme=vue&count_private=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonjjon)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonjjon)
 
 
 
